@@ -1,6 +1,6 @@
 {
   "name": "vitejs-plugin-vue-setup-extend",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "为 Vue 3 `<script setup>` 语法扩展支持定义组件的 `name` 和 `inheritAttrs` 属性的 Vite 插件。",
   "main": "dist/vue-setup-extend.umd.js",
   "module": "dist/vue-setup-extend.es.js",
